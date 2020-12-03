@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://Anirban:Anirban@devconnector.iorwe.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "jwtSecret": "mysecretToken"
+}
